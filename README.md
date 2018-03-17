@@ -79,7 +79,7 @@ The top three models were used to classify the team tweets. The chart below show
 |31|![alt text](team_images/devils.gif "New Jersey Devils")|0.557760| |![alt text](team_images/devils.gif "New Jersey Devils")|0.554229| |![alt text](team_images/devils.gif "New Jersey Devils")|0.508828|
 
 
-In the table below, you can see the average rankings between the top three models. The rankings for the teams are relatively the same with the Naive Bayes model being the most different. The two Logisitic Regression models performed almost the same, which was to be expected.
+You can see the average rankings between the top three models. The rankings for the teams are relatively the same with the Naive Bayes model being the most different. The two Logisitic Regression models performed almost the same, which was to be expected.
 
 # NHL Sentiment Analysis
 This NHL Sentiment Analysis aims to rank all 31 NHL teams according to the positivity/negativity (sentiment) of Twitter tweets. The tweets were collected from January 20th through January 25th 2018, which was right before the All-Star break.
