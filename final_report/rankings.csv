@@ -1,0 +1,32 @@
+team,final_model_rank,second_model_rank,third_model_rank,average_rank
+Anaheim Ducks,1,1,1,1.0
+Los Angeles Kings,2,2,2,2.0
+Nashville Predators,3,4,13,6.666666666666667
+Detroit Red Wings,4,3,3,3.3333333333333335
+Colorado Avalanche,5,5,7,5.666666666666667
+Arizona Coyotes,6,7,10,7.666666666666667
+Vegas Golden Knights,7,6,4,5.666666666666667
+Pittsburgh Penguins,8,8,6,7.333333333333333
+Carolina Hurricanes,9,10,5,8.0
+Dallas Stars,10,9,8,9.0
+Minnesota Wild,11,11,12,11.333333333333334
+Philadelphia Flyers,12,12,9,11.0
+Winnipeg Jets,13,13,16,14.0
+Columbus Blue Jackets,14,14,11,13.0
+San Jose Sharks,15,15,15,15.0
+Tampa Bay Lightning,16,16,26,19.333333333333332
+Boston Bruins,17,17,17,17.0
+Washington Capitals,18,18,14,16.666666666666668
+St. Louis Blues,19,19,18,18.666666666666668
+Toronto Maple Leafs,20,20,21,20.333333333333332
+New York Rangers,21,21,19,20.333333333333332
+New York Islanders,22,22,20,21.333333333333332
+Vancouver Canucks,23,23,22,22.666666666666668
+Florida Panthers,24,24,23,23.666666666666668
+Buffalo Sabres,25,25,24,24.666666666666668
+Calgary Flames,26,26,27,26.333333333333332
+Montreal Canadiens,27,27,25,26.333333333333332
+Ottawa Senators,28,28,28,28.0
+Chicago Blackhawks,29,29,30,29.333333333333332
+Edmonton Oilers,30,30,29,29.666666666666668
+New Jersey Devils,31,31,31,31.0
